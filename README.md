@@ -13,7 +13,7 @@ To use the application follow the below steps:\
 # Demo code
 ~node app.js ${command} --title="" --body=""
 
-#npm packages
+# npm packages
 Lodash, yargs, fs, chalk.
 
 
