@@ -8,5 +8,8 @@ To use the application follow the below steps:\
 *Run the application using command ~node app.js.\
 *Use command ~help for further help.
 
+![](Image.png)
+
 # Demo code
 ~node app.js help
+
