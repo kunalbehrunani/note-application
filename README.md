@@ -11,5 +11,9 @@ To use the application follow the below steps:\
 ![](Image.png)
 
 # Demo code
-~node app.js help
+~node app.js ${command} --title="" --body=""
+
+#npm packages
+Lodash, yargs, fs, chalk.
+
 
